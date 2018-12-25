@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-func main0301() {
+func main() {
 	//查找一个字符串在另外一个字符串中是否出现
 	str1:="hello world"
 	str2:="llo"
@@ -96,7 +96,7 @@ func main0308(){
 
 
 
-func main(){
+func main0309(){
 	//查找
 	//bool类型=strings.Contains(被查找字符串，查找字符串)
 	//int类型=strings.Index(被查找字符串，查找字符串)
